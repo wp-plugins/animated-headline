@@ -13,7 +13,7 @@ Super animation headline by using shortcode. Easy to use and look super animated
 == Description ==
 Animated Headline is a plugin to show, animated headline using short-code. It was very easy to use, Just use animated headline shortcode. 
 
-=Example:=
+= Example: =
 [animated-headline title="Hello my friend" animated_text="Anshul,Rahul,Nisha" animation="clip"]
 
 Here you can select 10 type of animation effect for changing text effect. For more detail you can check plgin detail page, You will find 'Animated Headlines' menu under settings in your WordPress admin panel. Here you can see how to use and more detail.
