@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Super animation headline by using shortcode. Easy to use and look super animated haedlines. 
+Super animation headline by using shortcode. Easy to use and look super animated headline. 
 
 == Description ==
 Animated Headline is a plugin to show, animated headline using short-code. It was very easy to use, Just use animated headline shortcode. 
@@ -17,6 +17,9 @@ Animated Headline is a plugin to show, animated headline using short-code. It wa
 [animated-headline title="Hello my friend" animated_text="Anshul,Rahul,Nisha" animation="clip"]
 
 Here you can select 10 type of animation effect for changing text effect. For more detail you can check plgin detail page, You will find 'Animated Headlines' menu under settings in your WordPress admin panel. Here you can see how to use and more detail.
+
+<a href="http://www.anshullabs.host-ed.me/animated-headline/" title="Demo Link">Demo Link</a>
+
 
 == Installation ==
 1. Upload animated-headline.zip to the /wp-content/plugins/ directory
