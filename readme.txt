@@ -18,7 +18,7 @@ Animated Headline is a plugin to show, animated headline using short-code. It wa
 
 Here you can select 10 type of animation effect for changing text effect. For more detail you can check plgin detail page, You will find 'Animated Headlines' menu under settings in your WordPress admin panel. Here you can see how to use and more detail.
 
-<a href="http://www.anshullabs.host-ed.me/animated-headline/" title="Demo Link">Demo Link</a>
+<a href="http://www.anshullabs.host-ed.me/animated-headline/" style=" background: #000; padding: 4px 10px; color: #fff; border-radius: 3px;" title="Demo Link">Demo Link</a>
 
 
 == Installation ==
