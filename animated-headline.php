@@ -3,7 +3,7 @@
 Plugin Name: Animated Headline
 Plugin URI: https://wordpress.org/plugins/animated-headline/
 Description: A simple wordpress plugin for animated headlines using shortcode. [animated-headline title="Hello my friend" animated_text="Anshul,Harshali,Asha,Rahul" animation="rotate-1"]
-Version: 1.0
+Version: 1.5
 Author: Anshul Labs
 Author URI: http://www.anshullabs.com
 License: GPL2
