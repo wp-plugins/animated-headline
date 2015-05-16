@@ -3,8 +3,8 @@ Contributors: anshuln90
 Tags: animation, ext, shortcode, effect, animated text, super text, best plugin, super effect, animated effect
 Donate link: http://goo.gl/8xSU4I
 Requires at least: at least: 3.0.1
-Tested up to: 4.1
-Stable tag: trunk
+Tested up to: 4.2.2
+Stable tag: tags/1.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -45,5 +45,9 @@ and You will find 'Animated Headlines' under setting menu in your WordPress admi
 1.0.0
 Initial Release.
 
+1.5.0
+Remove Some Bugs.
+
 == Upgrade Notice ==
 Update some bugs in version 1.0.0
+Update plugin in version 1.5.0
